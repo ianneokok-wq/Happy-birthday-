@@ -275,7 +275,7 @@
             <div class="pictures">
                 <div class="picture-container">
                     <div class="picture" onclick="showMessage('  Happy birthday ashaa, thank you for coming into my life!!! Be happy always thanks for your comfort when i get low, thanks a lot ashaa!! Choose to be happy always okay?, you\'re my legend!')">
-                        <img src="ashaa.jpg" alt="Star">
+                        <img src="Ashaa.jpg" alt="Star">
                     </div>
                     <p class="picture-title">Gorgeous</p>
                 </div>
