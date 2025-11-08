@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -228,7 +227,7 @@
             <div class="pictures">
                 <div class="picture-container">
                     <div class="picture" onclick="showMessage('  Happy birthday ashaa, thank you for coming into my life!! Be happy always thanks for your comfort when i get low, thanks a lot ashaa!! Choose to be happy always okay?, youre my legend!')">
-                        <img src="ashaa.jpg" alt="Star">
+                        <img src="Ashaa.jpg" alt="Star">
                     </div>
                     <p class="picture-title">Gorgeous</p>
                 </div>
